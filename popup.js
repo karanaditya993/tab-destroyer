@@ -1,4 +1,5 @@
 (()  => {
+  
   let tabsData = []
   const closeBtn = document.getElementById('close')
   const GET_DOMAIN_REGEX = /^(?:https?:\/\/)?(?:[^@\n]+@)?(?:www\.)?([^:\/\n?]+)/img
